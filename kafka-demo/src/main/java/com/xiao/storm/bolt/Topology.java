@@ -11,6 +11,5 @@ public class Topology {
 
     public static void main(String[] args) {
 
-
     }
 }
